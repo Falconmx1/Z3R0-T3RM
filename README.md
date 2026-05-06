@@ -16,3 +16,15 @@ git clone https://github.com/Falconmx1/Z3R0-T3RM.git
 cd Z3R0-T3RM
 chmod +x installer.sh
 ./installer.sh
+
+Windows (PowerShell Admin)
+Set-ExecutionPolicy Bypass -Scope Process -Force
+.\setup_windows.ps1
+
+Comandos después de instalar
+
+    zsh → Lanzar la terminal power
+
+    kali-mode → Activar prompt root visual
+
+    priv-up → Escalar privilegios automático
